@@ -1,2 +1,2 @@
 # RMGL
-Ryan's Generic Modloader for .NET
+Ryan's Generic Mod Loader for .NET
